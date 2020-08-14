@@ -56,6 +56,9 @@ it run with Electron, you can add a `start` script:
   "main": "main.js",
   "scripts": {
     "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "electron-version"
   }
 }
 ```
